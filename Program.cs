@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+Author:Tushar Chotlani
+Date: 2/28/2024
+Comments: This C# Console Application code demonstrates the
+    Bubble Sort without using swap function. 
+    No input is required for the script. It will execute without 
+    input against pre-populated arrays. 
+*/
+
+using System;
 
 class BubbleSortExample
 {
